@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ecris-lhistoire/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Écris L'histoire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ecris-lhistoire/) |
+| **Get License** | [Obtain a Music License for Écris L'histoire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ecris-lhistoire/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Écris l'histoire ce soir, ma belle, laisse-toi emporter
+> Minuit à Paris, ton parfum vient m'enivrer
+> C'est la fièvre du club, un regard magnétique
+> Je tombe fou de toi, sur cette vibe électrique
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
