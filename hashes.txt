@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Écris L'histoire
+
+This log tracks the cryptographic history and versioning for the song **Écris L'histoire** (ecris-lhistoire).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-25T12:53:44.529671 | `v1` | `cca680cade2db82d604ca756a786074b3fdd6b3afc4002cf14edb14af0e405b8` | `992ab2dfccfc339d6cb7c87bb08f7e7144a6095c240817dbf1e6c2d428133aa0` | `2026-06-25_ecris-lhistoire-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
